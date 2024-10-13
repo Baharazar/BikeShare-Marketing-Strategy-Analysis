@@ -49,11 +49,11 @@ Electric Bikes: 67.35% by members, 32.65% by casual riders
 
 <img width="501" alt="TOTAL riders" src="https://github.com/user-attachments/assets/0698e7e7-c94e-44ea-9c8f-0cee6bac5fec">
 
-<img width="416" alt="classic bike usage " src="https://github.com/user-attachments/assets/a901f5ae-6ccb-4b2a-ab1d-4a421393384a">
+<img width="501" alt="classic bike usage " src="https://github.com/user-attachments/assets/a901f5ae-6ccb-4b2a-ab1d-4a421393384a">
 
-<img width="377" alt="electrical bike usage " src="https://github.com/user-attachments/assets/38bad436-3f23-4df8-85fd-5b7d7a8e517b">
+<img width="501" alt="electrical bike usage " src="https://github.com/user-attachments/assets/38bad436-3f23-4df8-85fd-5b7d7a8e517b">
 
-<img width="405" alt="bike usages" src="https://github.com/user-attachments/assets/a62809a0-8251-4dcd-a084-25727aff1004">
+<img width="501" alt="bike usages" src="https://github.com/user-attachments/assets/a62809a0-8251-4dcd-a084-25727aff1004">
 
 
 
